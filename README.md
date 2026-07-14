@@ -7,4 +7,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1212-sequential-digits) |
+## Array
+|  |
+| ------- |
+| [1559-cherry-pickup-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1559-cherry-pickup-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1559-cherry-pickup-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1559-cherry-pickup-ii) |
+## Matrix
+|  |
+| ------- |
+| [1559-cherry-pickup-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1559-cherry-pickup-ii) |
 <!---LeetCode Topics End-->
