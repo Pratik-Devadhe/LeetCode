@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+## Math
+|  |
+| ------- |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3995-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3995-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
