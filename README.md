@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0001-two-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1386-shift-2d-grid](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1559-cherry-pickup-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1559-cherry-pickup-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3859-maximum-product-of-two-digits](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Counting
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0013-roman-to-integer) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3859-maximum-product-of-two-digits](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3995-gcd-of-odd-and-even-sums) |
