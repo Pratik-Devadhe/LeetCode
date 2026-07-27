@@ -131,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
