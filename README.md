@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1827-invalid-tweets) |
 ## Counting Sort
