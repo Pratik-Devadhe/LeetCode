@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1212-sequential-digits) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Array
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Number Theory
