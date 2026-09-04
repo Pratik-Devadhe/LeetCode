@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4080-smallest-missing-multiple-of-k](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4107-find-missing-elements) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
+| [4284-smallest-stable-index-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4284-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -237,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0210-course-schedule-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [4284-smallest-stable-index-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4284-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
