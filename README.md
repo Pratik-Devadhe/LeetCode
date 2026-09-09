@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3859-maximum-product-of-two-digits](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4245-count-commas-in-range](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4245-count-commas-in-range) |
+| [4248-count-commas-in-range-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
