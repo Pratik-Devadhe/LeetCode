@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1212-sequential-digits](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1212-sequential-digits) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Array
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4107-find-missing-elements) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0013-roman-to-integer) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4107-find-missing-elements) |
 ## String
@@ -259,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0322-coin-change) |
+## Recursion
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
