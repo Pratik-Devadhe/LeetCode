@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0001-two-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0289-game-of-life](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0322-coin-change) |
 | [0605-can-place-flowers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0289-game-of-life) |
 | [1386-shift-2d-grid](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1559-cherry-pickup-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1559-cherry-pickup-ii) |
 ## Bit Manipulation
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0289-game-of-life) |
 | [1386-shift-2d-grid](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1386-shift-2d-grid) |
 ## Binary Search Tree
 |  |
