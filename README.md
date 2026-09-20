@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0165-compare-version-numbers) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3811-reverse-degree-of-a-string](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0289-game-of-life](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0289-game-of-life) |
 | [1386-shift-2d-grid](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1386-shift-2d-grid) |
+| [3811-reverse-degree-of-a-string](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Binary Search Tree
 |  |
 | ------- |
