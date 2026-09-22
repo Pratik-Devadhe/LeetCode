@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0289-game-of-life](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0322-coin-change) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [4284-smallest-stable-index-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4285-smallest-stable-index-ii) |
 ## Knapsack Problem
