@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0289-game-of-life](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0322-coin-change) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0165-compare-version-numbers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Linked List
 |  |
 | ------- |
