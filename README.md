@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0322-coin-change) |
 | [0605-can-place-flowers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1046-max-consecutive-ones-iii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1386-shift-2d-grid](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1559-cherry-pickup-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1559-cherry-pickup-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [1046-max-consecutive-ones-iii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Interactive
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1046-max-consecutive-ones-iii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [4284-smallest-stable-index-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4285-smallest-stable-index-ii) |
 ## Knapsack Problem
