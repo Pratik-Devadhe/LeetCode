@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0322-coin-change) |
 | [0605-can-place-flowers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1386-shift-2d-grid](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [4284-smallest-stable-index-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4285-smallest-stable-index-ii) |
