@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
@@ -283,10 +287,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Graph Theory
 |  |
 | ------- |
