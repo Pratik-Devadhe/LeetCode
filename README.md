@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Hash Table
 |  |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0013-roman-to-integer) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0322-coin-change) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
