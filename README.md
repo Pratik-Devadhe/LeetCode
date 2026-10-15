@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0013-roman-to-integer) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -350,4 +352,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
