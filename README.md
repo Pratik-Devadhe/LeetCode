@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0322-coin-change](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0322-coin-change) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1559-cherry-pickup-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1559-cherry-pickup-ii) |
 ## Matrix
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0078-subsets) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Sorting
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Interactive
 |  |
 | ------- |
@@ -286,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0322-coin-change) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## DP on Trees
 |  |
 | ------- |
@@ -294,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Lowest Common Ancestor
 |  |
@@ -352,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Binary Indexed Tree
 |  |
 | ------- |
