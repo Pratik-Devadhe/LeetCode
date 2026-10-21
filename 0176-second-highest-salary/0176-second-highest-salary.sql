@@ -1,0 +1,1 @@
+select (  select distinct salary  from (select salary, DENSE_RANK() OVER ( ORDER BY salary DESC ) as rnk from Employee ) as rankSalary where rnk = 2 ) as SecondHighestSalary;
