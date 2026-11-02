@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0322-coin-change) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0605-can-place-flowers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0724-find-pivot-index) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0866-rectangle-overlap](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0866-rectangle-overlap) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
