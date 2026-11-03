@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4107-find-missing-elements) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4284-smallest-stable-index-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4285-smallest-stable-index-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3859-maximum-product-of-two-digits](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4084-maximize-sum-of-squares-of-digits) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4245-count-commas-in-range](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
