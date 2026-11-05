@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1386-shift-2d-grid](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1559-cherry-pickup-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Interactive
 |  |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0165-compare-version-numbers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Linked List
 |  |
 | ------- |
