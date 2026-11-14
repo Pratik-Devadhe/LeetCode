@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 | [4284-smallest-stable-index-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4285-smallest-stable-index-ii) |
 ## Knapsack Problem
