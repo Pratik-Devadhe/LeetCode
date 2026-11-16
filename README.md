@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2496-count-days-spent-together](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2496-count-days-spent-together) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0289-game-of-life](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0289-game-of-life) |
 | [1386-shift-2d-grid](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1386-shift-2d-grid) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Binary Search Tree
 |  |
