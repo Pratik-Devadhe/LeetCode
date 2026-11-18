@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0322-coin-change](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0343-integer-break) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1559-cherry-pickup-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1559-cherry-pickup-ii) |
 ## Matrix
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0343-integer-break](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0343-integer-break) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0866-rectangle-overlap](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0866-rectangle-overlap) |
