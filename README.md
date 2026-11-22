@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0289-game-of-life) |
 | [1386-shift-2d-grid](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1559-cherry-pickup-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1559-cherry-pickup-ii) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0100-same-tree) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0013-roman-to-integer) |
+| [0079-word-search](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0079-word-search) |
 ## Bracket Sequences
 |  |
 | ------- |
