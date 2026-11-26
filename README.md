@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2496-count-days-spent-together](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2496-count-days-spent-together) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3625-stone-removal-game](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3625-stone-removal-game) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0289-game-of-life) |
 | [1386-shift-2d-grid](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1386-shift-2d-grid) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
+| [3625-stone-removal-game](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3625-stone-removal-game) |
 | [3811-reverse-degree-of-a-string](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Binary Search Tree
 |  |
