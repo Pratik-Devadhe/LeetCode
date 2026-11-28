@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2496-count-days-spent-together](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2496-count-days-spent-together) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Interactive
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Simulation
 |  |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 | [4284-smallest-stable-index-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/4285-smallest-stable-index-ii) |
@@ -443,11 +447,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0187-repeated-dna-sequences) |
-## BoyerÃ¢ÂÂMoore String-Search Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0187-repeated-dna-sequences) |
-## BoyerâMoore String-Search Algorithm
+## BoyerÃ¢ÂÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0187-repeated-dna-sequences) |
