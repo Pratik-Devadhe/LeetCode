@@ -443,6 +443,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## BoyerÃ¢ÂÂMoore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## BoyerâMoore String-Search Algorithm
 |  |
 | ------- |
