@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0078-subsets) |
+| [0187-repeated-dna-sequences](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Sorting
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0013-roman-to-integer) |
+| [0187-repeated-dna-sequences](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2104-operations-on-tree](https://github.com/Pratik-Devadhe/LeetCode/tree/master/2104-operations-on-tree) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0013-roman-to-integer) |
 | [0079-word-search](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0187-repeated-dna-sequences](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pratik-Devadhe/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Pratik-Devadhe/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
@@ -427,4 +431,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0494-target-sum) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## BoyerâMoore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Pratik-Devadhe/LeetCode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
